@@ -1,0 +1,89 @@
+
+.e1_6 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e9_28 { 
+	width:1440px;
+	height:1024px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(imagens/background.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e3_12 { 
+	width:245px;
+	height:350px;
+	position:absolute;
+	left:555px;
+	top:162px;
+	background-image:url(imagens/eu.jpeg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e4_20 { 
+	color:rgba(0, 0, 0, 1);
+	width:568px;
+	height:195px;
+	position:absolute;
+	left:393px;
+	top:463px;
+	font-family:Comic Neue;
+	text-align:center;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e9_30 { 
+	width:209px;
+	height:190px;
+	position:absolute;
+	left:1043px;
+	top:753px;
+	background-image:url(imagens/trombeta.gif);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e9_34 { 
+	width:320px;
+	height:240px;
+	position:absolute;
+	left:73px;
+	top:97px;
+	background-image:url(imagens/arroba.gif);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e9_38 { 
+	width:171px;
+	height:224px;
+	position:absolute;
+	left:592px;
+	top:624px;
+	background-image:url(imagens/dinosaur.gif);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e9_40 { 
+	width:500px;
+	height:500px;
+	position:absolute;
+	left:898px;
+	top:213px;
+	background-image:url(imagens/internet-party.gif);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e9_42 { 
+	width:545px;
+	height:409px;
+	position:absolute;
+	left:-62px;
+	top:512px;
+	background-image:url(imagens/lol.gif);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
