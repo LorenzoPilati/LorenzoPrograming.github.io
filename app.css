@@ -21,7 +21,7 @@
 	height:25%;
 	position:absolute;
 	top:45%;
-	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-family:comic;
 	text-align:center;
 	font-size:210%;
 	letter-spacing:0;
@@ -33,7 +33,7 @@
 	height:25%;
 	position:absolute;
 	top:52.5%;
-	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-family:comic;
 	text-align:center;
 	font-size:125%;
 	letter-spacing:0;
@@ -76,7 +76,7 @@
 	top:5%;
 	background-image:url(imagens/internet-party.gif);
 	background-repeat:no-repeat;
-	background-size:cover;
+	background-size:contain;
 }
 .lol { 
 	width:40%;
