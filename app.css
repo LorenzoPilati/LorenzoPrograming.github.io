@@ -6,10 +6,10 @@
 	background-size:cover;
 }
 .eu { 
-	width:35%;
-	height:35%;
+	width:45%;
+	height:45%;
 	position:absolute;
-	left:40%;
+	left:38.5%;
 	top:5%;
 	background-image:url(imagens/eu.jpeg);
 	background-repeat:no-repeat;
@@ -20,22 +20,22 @@
 	width:91%;
 	height:25%;
 	position:absolute;
-	top:45%;
+	top:56.5%;
 	font-family:comic;
 	text-align:center;
-	font-size:210%;
+	font-size:220%;
 	letter-spacing:0;
 }
 
 .text { 
 	color:rgb(214, 26, 208);
-	width:90%;
+	width:91%;
 	height:25%;
 	position:absolute;
-	top:52.5%;
+	top:60%;
 	font-family:comic;
 	text-align:center;
-	font-size:125%;
+	font-size:135%;
 	letter-spacing:0;
 }
 .trombeta { 
